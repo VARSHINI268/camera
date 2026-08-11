@@ -1,0 +1,44 @@
+[
+  {
+    "employee_id": 1001,
+    "name": "Aarav Sharma",
+    "designation": "Software Engineer",
+    "department": "Engineering",
+    "salary": 85000
+  },
+  {
+    "employee_id": 1002,
+    "name": "Sofia Johnson",
+    "designation": "HR Manager",
+    "department": "Human Resources",
+    "salary": 72000
+  },
+  {
+    "employee_id": 1003,
+    "name": "Michael Brown",
+    "designation": "Accountant",
+    "department": "Finance",
+    "salary": 65000
+  },
+  {
+    "employee_id": 1004,
+    "name": "Priya Menon",
+    "designation": "Marketing Executive",
+    "department": "Marketing",
+    "salary": 56000
+  },
+  {
+    "employee_id": 1005,
+    "name": "Liam Wilson",
+    "designation": "Data Analyst",
+    "department": "Analytics",
+    "salary": 69000
+  },
+  {
+    "employee_id": 1006,
+    "name": "Emma Davis",
+    "designation": "Quality Assurance Engineer",
+    "department": "QA",
+    "salary": 61000
+  }
+]
